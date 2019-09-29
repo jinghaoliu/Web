@@ -7,6 +7,7 @@ I am working as a research assistant at Harbin Polytechnic University.
 ## Biography
 Liu Jinghao got my undergraduate degree in Guangxi Normal University
 ## Publications
+A manuscript titled Automatic Microscopy Cell Detection by Deep Geometric Feature Spectrum ExtremeNet.
 ## Software
 - Shadow Medical Image Segmentation System
 - Hotel Ordering and Management Decision-making Integrated System Based on System Scheduling Algorithm
