@@ -1,1 +1,1 @@
-# Jinghao-Liu.github.io
+# JinghaoLiu.github.io
