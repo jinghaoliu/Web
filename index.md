@@ -3,7 +3,7 @@ layout: about
 ---
 
 # Biography
-I received the B.Eng degree in Engineering from Guangxi Normal University in 2019. 
+I received a B.Eng degree in Engineering from Guangxi Normal University in 2019. 
 
 <br/>
 
