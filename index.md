@@ -17,7 +17,7 @@ I received a B.Eng degree in Engineering from Guangxi Normal University in 2019.
 
 # Awards
 
- * CSC Scholarship
+ * CSC Scholarship.
  * Outstanding University Graduates of Higher Education of Guangxi Zhuang Autonomous Region.
  * Third Prize in 11th Chinese Collegiate Computing Competition.
  * Third Prize in 10th Chinese Collegiate Computing Competition.
