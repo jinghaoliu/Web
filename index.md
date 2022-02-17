@@ -7,7 +7,7 @@ I received a B.Eng degree in Engineering from Guangxi Normal University in 2019.
 <br/>
 
 # News
- At present, I am looking for a PhD position.
+
 <br/>
 
 # Publications
