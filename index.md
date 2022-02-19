@@ -6,10 +6,6 @@ layout: about
 I received a B.Eng degree in Engineering from Guangxi Normal University in 2019. 
 <br/>
 
-# News
-
-<br/>
-
 # Publications
 <br/>
 
