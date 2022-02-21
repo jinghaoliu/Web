@@ -1,7 +1,7 @@
 # Site settings
 title: JINGHAO LIU'S HOMEPAGE
 baseurl: ""
-url: "https://jinghao-liu.github.io/"
+url: "https://jinghaoliu.github.io/"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
@@ -19,11 +19,11 @@ social:
   dribbble:
   facebook: 
   flickr:
-  github: Jinghao-Liu/
+  github: JinghaoLiu/
   google_plus:
   instagram:
   keybase:
-  linkedin: 
+  linkedin: 9999
   pinterest:
   reddit:
   soundcloud:
