@@ -1,6 +1,6 @@
 ---
 layout: about 
-I'm a Ph.D. student at ReLER Lab, AAII, University of Technology Sydney (UTS), advised by Dr. Linchao Zhu. Prior to joining UTS, I received a B.Eng degree in engineering from Guangxi Normal University (GXNU).
+I'm a Ph.D. student at ReLER Lab, AAII, University of Technology Sydney (UTS), advised by Dr. Linchao Zhu. Prior to joining UTS, I received a B.Eng degree from Guangxi Normal University (GXNU).
 ---
 
 # Biography
