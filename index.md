@@ -1,6 +1,10 @@
 ---
 layout: about 
 I'm a Ph.D. student at ReLER Lab, AAII, University of Technology Sydney (UTS), advised by Dr. Linchao Zhu. Prior to joining UTS, I received a B.Eng degree from Guangxi Normal University (GXNU).
+https://www.uts.edu.au/research/australian-artificial-intelligence-institute
+http://reler.net/
+http://ffmpbgrnn.github.io/
+
 ---
 
 # Biography
