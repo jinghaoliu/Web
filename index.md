@@ -14,3 +14,6 @@ I'm a Ph.D. student at the [ReLER Lab](https://reler.net/), [Australian Artifici
  * Outstanding University Graduates of Higher Education.
  * Third Prize in 11th Chinese Collegiate Computing Competition.
  * Third Prize in 10th Chinese Collegiate Computing Competition.
+# Miscellaneous
+[Cong Lei(The University of Sydney)](https://cong-lei.github.io/)
+<br/>
