@@ -17,5 +17,5 @@ I'm a Ph.D. student at the [ReLER Lab](https://reler.net/), Australian Artificia
 
 # Miscellaneous
  * [Cong Lei](https://cong-lei.github.io/) (The University of Sydney)
- * [Well Lee](https://blog.gxnuliw.cn/) (Guangxi Normal University )
+ * [Well Lee](https://blog.gxnuliw.cn/) (Guangxi Normal University)
  * Rui Li (Wuhan University of Technology)
