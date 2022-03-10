@@ -16,6 +16,6 @@ I'm a Ph.D. student at the [ReLER Lab](https://reler.net/), Australian Artificia
  * Third Prize in 10th Chinese Collegiate Computing Competition.
 
 # Miscellaneous
-[Cong Lei](https://cong-lei.github.io/) (The University of Sydney)
-[Well Lee] (Guangxi Normal University )
-[Rui Li] (Wuhan University of Technology)
+ * [Cong Lei](https://cong-lei.github.io/) (The University of Sydney)
+ * Well Lee (Guangxi Normal University )
+ * Rui Li (Wuhan University of Technology)
