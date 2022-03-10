@@ -1,9 +1,9 @@
 ---
 layout: about 
-I'm a Ph.D. student at the [ReLER Lab](https://reler.net/), Australian Artificial Intelligence Institute(AAII), University of Technology Sydney, advised by [Dr. Linchao Zhu](https://ffmpbgrnn.github.io/). Prior to joining UTS, I received a B.Eng degree from Guangxi Normal University.
 ---
 
 # Biography
+I'm a Ph.D. student at the [ReLER Lab](https://reler.net/), Australian Artificial Intelligence Institute(AAII), University of Technology Sydney, advised by [Dr. Linchao Zhu](https://ffmpbgrnn.github.io/). Prior to joining UTS, I received a B.Eng degree from Guangxi Normal University.
 <br/>
 
 # Publications
@@ -16,4 +16,4 @@ I'm a Ph.D. student at the [ReLER Lab](https://reler.net/), Australian Artificia
  * Third Prize in 10th Chinese Collegiate Computing Competition.
 
 # Miscellaneous
-[Cong Lei](https://cong-lei.github.io/)(The University of Sydney)
+[Cong Lei](https://cong-lei.github.io/) (The University of Sydney)
