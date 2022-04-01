@@ -1,0 +1,19 @@
+## 因果推理入门1（辛普森悖论）
+
+      <div class="divider">
+      </div>
+
+## 为什么研究因果关系
+
+因果关系可以告诉我们，为什么经过考验的可靠的统计方法不能说明世界的一切信息。严格来说，因果关系不仅仅是统计的一个方面，更是对统计学的补充。使统计学能够揭示传统方法无法说明的世界的工作方式。
+
+## 辛普森悖论
+
+辛普森悖论定义十分简单，即“存在这样的数据，总体上的统计结果与其每一个子部分统计结果相反。”这里会有一些反直觉，下面我们通过一个具体的案例来演示辛普森悖论。
+
+科学家们在探究运动量和胆固醇研究发现，随着运动量的增加，人体胆固醇含量也相应的增加（图一），作为一个接受过九年义务教育的人，我们知道这十分反常。所以科学家们又对年龄进行分组（图二），发现在每一组年龄范围，胆固醇含量都是随着运动量增加而减少的。这个例子，就出现总体的统计结果和子部分相悖的情况，也就是辛普森悖论。出现辛普森悖论的根源，是我们得出“随着运动量的增加，人体胆固醇含量也相应的增加”结论。是依据了一个前置的假设，即运动和胆固醇的相关性不受年龄的干扰。
+<figure data-size="normal"><noscript>![](https://pic1.zhimg.com/v2-441c7a224bf38d36689d8b714595db84_b.jpg)</noscript>![](https://pic1.zhimg.com/v2-441c7a224bf38d36689d8b714595db84_b.jpg)<figcaption>图 一</figcaption></figure><figure data-size="normal"><noscript>![](https://pic1.zhimg.com/v2-1dced29e145b8ff5688d71cf2c88d3b4_b.jpg)</noscript>![](https://pic1.zhimg.com/v2-1dced29e145b8ff5688d71cf2c88d3b4_b.jpg)<figcaption>图二</figcaption></figure>[<span class="LinkCard-contents"><span class="LinkCard-title loading" data-text="true"></span><span class="LinkCard-desc loading"></span></span><span class="LinkCard-image LinkCard-image--default"></span>](https://zhuanlan.zhihu.com/p/485020903)
+
+参考： 
+
+Pearl，《Causal Inference In Statistics: A Primer》
