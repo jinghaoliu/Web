@@ -12,8 +12,7 @@ I'm a Ph.D. student at the [ReLER Lab](https://reler.net/), Australian Artificia
 # Awards
  * China Scholarship Council (CSC) Scholarship.
  * Outstanding University Graduates of Higher Education.
- * Third Prize in 11th Chinese Collegiate Computing Competition.
- * Third Prize in 10th Chinese Collegiate Computing Competition.
+ * Third Prize in 10th, 11th Chinese Collegiate Computing Competition.
 
 # Miscellaneous
 **Friends**<br>
