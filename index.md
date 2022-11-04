@@ -18,4 +18,4 @@ I received a B.Eng degree from Guangxi Normal University (GXNU).
  * Third Prize in 10th, 11th Chinese Collegiate Computing Competition.
 
 # Alumni
-[Cong Lei](https://cong-lei.github.io/) (USYD)<br>[Well Lee](https://blog.gxnuliw.cn/) (GXNU)<br>[Rui Lee](https://github.io/) (WUT & AMU)
+[Cong Lei](https://cong-lei.github.io/) (Ph.D. at USYD), [Well Lee](https://blog.gxnuliw.cn/) (MPhil at GXNU), [Rui Lee](https://github.io/) (MPhil at WUT & AMU)
