@@ -10,7 +10,7 @@ I received a B.Eng degree from Guangxi Normal University (GXNU).
 <br/>
 
 # Work experience
-<br/>
+ * **Zhejiang Lab**, Research Intern, 2022.07-present
 
 # Awards
  * China Scholarship Council (CSC) Scholarship.
