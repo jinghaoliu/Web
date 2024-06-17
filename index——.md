@@ -14,6 +14,6 @@ I received a B.Eng degree from Guangxi Normal University (GXNU).
 
 # Awards
  * China Scholarship Council (CSC) Scholarship.
- * Outstanding University Graduates of Higher Education.
+ * Outstanding Graduates (top 1%).
  * Third Prize in 10th, 11th Chinese Collegiate Computing Competition.
 
