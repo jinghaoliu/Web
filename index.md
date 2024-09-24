@@ -3,7 +3,7 @@ layout: about
 ---
 
 # Biography
-I am currently a Ph.D. student at the University of Technology Sydney (UTS). I received a B.Eng degree from Guangxi Normal University (GXNU).
+I am currently a Ph.D. student at the University of Technology Sydney (UTS). Before that, I received a B.Eng degree from Guangxi Normal University (GXNU).
 <br/>
 
 # Publications
