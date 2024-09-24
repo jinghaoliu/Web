@@ -10,7 +10,7 @@ I am currently a Ph.D. student at the University of Technology Sydney (UTS). Bef
 <br/>
 
 # Work experience
- * **Zhejiang Lab**, Research Intern, 2022.07-202.05
+ * **Zhejiang Lab**, Research Intern, 2022.07-2023.05
 
 # Awards
  * Outstanding Graduates (top 1%).
